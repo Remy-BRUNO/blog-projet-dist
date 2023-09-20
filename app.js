@@ -28,7 +28,7 @@ const favorisRouter = require("./routes/favorisRoutes.js")
 app.use(
   helmet.contentSecurityPolicy({
     useDefaults: true,
-    directives: { "img-src": ["'self'", "https:data:"] },
+    directives: { "img-src": ["'self'", "https://console.cloudinary.com/"] },
   })
 )
 app.use(cors())
