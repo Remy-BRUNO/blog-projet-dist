@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 16" width="18" height="16">
+	<title>heart-svg</title>
+	<defs>
+		<image  width="18" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAQCAMAAAAs2N9uAAAAAXNSR0IB2cksfwAAALFQTFRFJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gJ65gfQl5dAAAADt0Uk5TAByP0P3fogQDpvzRjBky8P/6safv7TAY4eLg7BWLgd779+q68vavVkWglgKsqLQFsKqdnAHu8XxkwGEkUeBpAAAAjElEQVR4nF3O2RKCMAyF4aOCRXBJFdxFQcWlgvuC7/9gFsTB9r9J5ptcBEClWjPMOrMapu00W5C1OyTj3R6Xw/X6wMAbZkSjcT5oMsXMICXbx5y0HCx0CuDqFGK5UmUdYaNfbYGdKnv5qjj8Syyy91lSSmQh73j6yZmhSFy+cr2hzKf7g55QeqXpu1g/oL0SAUw1R6EAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Fill 1161" href="#img1" x="0" y="0"/>
+</svg>
