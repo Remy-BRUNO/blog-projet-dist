@@ -45,7 +45,7 @@ const CreateArticle = () => {
     const imageFile = e.target.files[0]
     const formData = new FormData()
     formData.append("image", imageFile)
-    setUploading(true)
+    // setUploading(true)
     try {
       const {
         data: {
@@ -57,7 +57,7 @@ const CreateArticle = () => {
           Authorization: `Bearer ${token}`,
         },
       })
-      setTimeout(setUploading(false), 5000)
+      // setTimeout(setUploading(false), 5000)
 
       imageValue = src
     } catch (error) {
